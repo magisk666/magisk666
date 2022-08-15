@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=magisk666&show_icons=true&theme=gotham)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=magisk666&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
